@@ -1,4 +1,5 @@
 <header>
+  magic test
 testststs
 <!--
   <<< Author notes: Course header >>>
